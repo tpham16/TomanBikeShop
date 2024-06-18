@@ -3,14 +3,14 @@
 ## Introduction
 The Toman Bike Shop Sales Performance Dashboard is a Power BI project designed to provide key performance metrics for informed decision-making. The dashboard includes analyses of hourly revenue, profit, and revnue trends, seasonal revenue, and rider demographics. 
 
-## Data Analysis WOrkflow**
+## Data Analysis Workflow
 1. Create a Database: Set up a database using MySQL to store bike share data.
 2. Develop SQL Queries: Write SQL queries to extract relevant data for analysis.
 3. Connect Power BI to DB: Establish a connection between Power BI and the database.
 4. Build a Dashboard in Power BI: Create interactive visualizations and dashboards in Power BI.
 5. Answer the Analysis Questions: Use the dashboard to answer key business questions and provide insights.
 
-## Key Metrics
+## Key Performance Metrics
 * Hourly Revenue Analysis: Track revenue generated each hour.
 * Profit and Revenue Trends: Analyze trends in profit and revenue over time.
 * Seasonal Revenue: Identify revenue patterns across different seasons.
@@ -18,15 +18,14 @@ The Toman Bike Shop Sales Performance Dashboard is a Power BI project designed t
 
 ## Usage
 
-* Download and Install ![Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). 
+* Download and Install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). 
 * Open the "Toman Bike Shop.pbix" file in Power BI Desktop.
 * Use filters to select specificyear, seasons, time periods, or rider demographics.
 * Click on data points to drill down into specific details. 
 
-### Screenshots
+### Screenshot
 
-![Power BI Screenshot](https://github.com/tpham16/TomanBikeShop/blob/main/Toman%20Bike%20Shop.pdf)
-
+![Power BI Screenshot](TomanBikeShopDashboard.png)
 
 ## Recommendations 
 
